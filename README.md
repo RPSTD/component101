@@ -9,7 +9,7 @@ In this project is discribe arduino component review.
 | C0003 | [Temperature sensor](/TemperatureSensor)                               | ✅  | ✅ | ✅ |
 | C0004 | [Magnetic fields sensor](/MagneticFeildSensor)                         | ✅  | ✅ | ✅ |
 | C0005 | [Gravity Sensor](/GravitySensor)                                       | ✅  | ✅ | ✅ |
-| C0006 | [Humidity sensor](/MagneticFeildSensor)                                | ✅  | ✅ | ✅ |
+| C0006 | [Humidity sensor](/HumiditySensor)                                     | ✅  | ✅ | ✅ |
 | C0007 | [Moisture sensor](/MoistureSensor)                                     | ✅  | ✅ | ✅ |
 | C0008 | [Vibration sensor](/VibrationSensor)                                   | ✅  | ✅ | ✅ |
 | C0009 | [Vibration sensor](/VibrationSensorArduino)                            | ✅  | ✅ | ✅ |
