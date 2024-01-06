@@ -35,7 +35,7 @@ void loop()
         Serial.print(humi);
         Serial.print("%");
 
-        Serial.print("  ");
+        Serial.print(" | ");
 
         Serial.print("Tempurature: ");
         Serial.print(tempC);
@@ -43,6 +43,6 @@ void loop()
         Serial.print(tempF);
         Serial.print(" F ");
 	
-	Serial.print("  ");
+	Serial.println();
     }
 }
