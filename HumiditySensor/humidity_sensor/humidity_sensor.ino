@@ -3,7 +3,7 @@
 #include <DHT.h>
 
 #define DHTPIN 2
-#define DHTTYPE DHT 11
+#define DHTTYPE DHT11
 
 DHT dht(DHTPIN, DHTTYPE);
 
@@ -18,7 +18,7 @@ void loop()
     // wait a few seconds between measurements.
     delay(2000);
     // read humidity
-    float humi = dht.readHumidit();
+    float humi = dht.readHumidity();
     // read temperature as Celsius
     float tempC = dht.readTemperature();
     // read temperature as Fahrenheit
