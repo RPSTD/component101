@@ -42,5 +42,7 @@ void loop()
         Serial.print("C ~ ");
         Serial.print(tempF);
         Serial.print(" F ");
+	
+	Serial.println();
     }
 }
